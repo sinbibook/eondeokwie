@@ -1,1 +1,1 @@
-# eondeokwie
+# template-full-banner-slider
