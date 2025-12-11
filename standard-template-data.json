@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2025-12-11T02:23:41.649Z",
+    "version": "1.6.0",
+    "generatedAt": "2025-12-11T02:33:05.804Z",
     "templateType": "full_banner_slider",
     "propertyId": "ed4dd48a-e5bd-444e-bc24-2fb53160e546",
     "homepageId": "2270ac90-fe00-4e15-a976-3d58ae6df6af"
@@ -779,7 +779,22 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "d40e5029-4348-4de0-b44f-e7aa499f9516",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/reservation_hero/1765420368961-h4f8y5vzyk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "5503e290-43cb-487b-a79d-d3552ab566d6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/reservation_hero/1765420368961-bdi4gg72ju5.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
