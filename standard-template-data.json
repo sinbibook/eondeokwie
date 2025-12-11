@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2025-12-11T02:02:47.392Z",
+    "version": "1.5.0",
+    "generatedAt": "2025-12-11T02:23:41.649Z",
     "templateType": "full_banner_slider",
     "propertyId": "ed4dd48a-e5bd-444e-bc24-2fb53160e546",
     "homepageId": "2270ac90-fe00-4e15-a976-3d58ae6df6af"
@@ -506,28 +506,21 @@
               "id": "55b8adfd-80ca-4f92-8b3d-a07166973a2f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/b481c220-9a54-41a5-ab1d-72d021b23538/exterior/1765407501996-rgkug9vj1ll.jpg",
               "sortOrder": 0,
-              "description": "",
+              "description": "호텔식 침구의 프리미엄 휴식 ",
               "isSelected": true
             },
             {
               "id": "5d9e2509-918f-4927-9bbe-1690b516e7d5",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/b481c220-9a54-41a5-ab1d-72d021b23538/exterior/1765407501996-qzae4fhn8f.jpg",
               "sortOrder": 1,
-              "description": "",
+              "description": "모던 인테리어의 감각적인 여백",
               "isSelected": true
             },
             {
               "id": "8c12147e-64c9-4278-af46-25083b3105b7",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/b481c220-9a54-41a5-ab1d-72d021b23538/exterior/1765407501996-btybnrfnlph.jpg",
               "sortOrder": 2,
-              "description": "",
-              "isSelected": true
-            },
-            {
-              "id": "77b71d2b-2982-4c16-a9a7-c0f5b15b4d5d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/b481c220-9a54-41a5-ab1d-72d021b23538/exterior/1765407501996-doaf3nzlpp.jpg",
-              "sortOrder": 3,
-              "description": "",
+              "description": "프라이빗 독채의 온전한 여유",
               "isSelected": true
             }
           ]
@@ -763,7 +756,23 @@
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "b481c220-9a54-41a5-ab1d-72d021b23538",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
