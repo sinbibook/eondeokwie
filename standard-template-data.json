@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-01-27T06:33:39.284Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-03-24T01:31:24.345Z",
     "templateType": "full_banner_slider",
     "propertyId": "ed4dd48a-e5bd-444e-bc24-2fb53160e546",
     "homepageId": "2270ac90-fe00-4e15-a976-3d58ae6df6af"
@@ -44,10 +44,10 @@
       "businessNumber": "643-19-02393",
       "representativeName": "양영숙",
       "businessAddress": "강원특별자치도 강릉시 안현로 167-16(안현동)",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
+      "businessPhone": "010-2105-0858",
+      "businessEmail": "0000@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -355,6 +355,7 @@
       "name": "언덕위에 독채(바베큐)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 만 8세 이상 1인 20,000원 \n- 만 0세~7세 1인 10,000원",
+      "usageGuide": "",
       "group": null,
       "size": 66,
       "baseOccupancy": 2,
@@ -815,7 +816,50 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [
+          {
+            "id": "c95dcf82-ed78-4262-93cc-cd7b3d1a3157",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "f1292cb2-6246-4448-9c7b-f995d4ac39fe",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/popup/1774315871530-02o8maynivg8.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "c95dcf82-ed78-4262-93cc-cd7b3d1a3157"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-04-11",
+            "sortOrder": 0,
+            "startDate": "2026-03-24",
+            "description": ""
+          },
+          {
+            "id": "a9667d8e-022a-4f87-8095-c1f7786697f5",
+            "link": "https://map.naver.com/p/entry/place/2045875197?lng=128.8772045&lat=37.8042349&placePath=%2Fhome&entry=plt&searchType=place",
+            "title": "",
+            "images": [
+              {
+                "id": "0ccfcdf2-2eb4-4e6f-a176-c432209cd1c2",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/popup/1774315871531-n0hp830n8w.png",
+                "sortOrder": 1,
+                "description": "",
+                "isSelected": true,
+                "blockId": "a9667d8e-022a-4f87-8095-c1f7786697f5"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-05-31",
+            "sortOrder": 1,
+            "startDate": "2026-03-24",
+            "description": ""
+          }
+        ]
       },
       "property": {
         "images": [
@@ -997,7 +1041,7 @@
             {
               "id": "2e549040-88ed-4406-826f-8529967e437f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/roomtype_interior/1769138934436-dlerw60zgxm.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "b481c220-9a54-41a5-ab1d-72d021b23538",
@@ -1141,7 +1185,7 @@
             {
               "id": "19315bdb-ad13-4b64-936e-743bd290ed42",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/roomtype_exterior/1769138934437-61zgglpb65l.jpg",
-              "sortOrder": 1,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "b481c220-9a54-41a5-ab1d-72d021b23538",
@@ -1150,7 +1194,7 @@
             {
               "id": "c74fe4fd-0f7b-4e93-ba7b-f2f591538947",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/roomtype_exterior/1769138934437-x6xf0o1ncnq.jpg",
-              "sortOrder": 2,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "b481c220-9a54-41a5-ab1d-72d021b23538",
@@ -1159,7 +1203,7 @@
             {
               "id": "6e791015-fd99-466a-a5e2-f78de6835eff",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/2270ac90-fe00-4e15-a976-3d58ae6df6af/roomtype_exterior/1769138934437-1v0xycf1awh.jpg",
-              "sortOrder": 17,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "b481c220-9a54-41a5-ab1d-72d021b23538",
@@ -1168,6 +1212,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "2270ac90-fe00-4e15-a976-3d58ae6df6af"
   }
 }
